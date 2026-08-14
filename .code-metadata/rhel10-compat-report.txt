@@ -1,0 +1,9 @@
+{
+  "runtime_stack": [
+    {
+      "name": "Python",
+      "runtime_version": "3.12",
+      "eol": false
+    }
+  ]
+}
